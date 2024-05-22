@@ -6,4 +6,4 @@ for item in shopping_dict:
     print('Idę do ' + str(item).capitalize() + ', kupuję tu następujące rzeczy: ' + str(shopping_dict[item]).title())
     shopping_items_count.append((len(shopping_dict[item])))
  
-print('W sumie kupuję ' + str(sum(shopping_items_count)) + ' produktów.')
+print('W sumie kupuję ' + str(sum(shopping_items_count)) + ' rzeczy.')
