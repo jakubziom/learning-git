@@ -10,3 +10,4 @@ print('W sumie kupuję ' + str(sum(shopping_items_count)) + ' rzeczy.')
 
 #to jest pierwszy commit
 #to jest drugi commit
+#test gałęzi
