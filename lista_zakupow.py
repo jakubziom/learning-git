@@ -7,3 +7,5 @@ for item in shopping_dict:
     shopping_items_count.append((len(shopping_dict[item])))
  
 print('W sumie kupuję ' + str(sum(shopping_items_count)) + ' rzeczy.')
+
+#to jest pierwszy commit
